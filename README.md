@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing and learning new technologies.
 - 🌱 I’m currently learning nodejs.
 - 💞️ I’m looking to collaborate on game development.
-- 📫 Take a look at kundankb.com
+- 📫 Take a look at  [kundankb.com](https://kundankb.com)
 
 <!---
 kundan333/kundan333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
