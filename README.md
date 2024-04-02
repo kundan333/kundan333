@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kundan333
 - 👀 I’m interested in developing and learning new technologies.
-- 🌱 I’m currently learning nodejs.
-- 💞️ I’m looking to collaborate on game development.
 - 📫 Take a look at  [kundankb.com](https://kundankb.com)
 
 <!---
